@@ -1,7 +1,7 @@
 @echo off
 
 title Autore: ArvelTv - Pagina iniziale
-color c
+color 3
 echo ______________
 echo Autore: ArvelTv
 echo Programma: Spotify
