@@ -1,7 +1,7 @@
-// Bot test | By ArvelTv#5506
+// By ArvelTv#5506
 const Discord = require('discord.js');
 const client = new Discord.Client({
-    intents: ["GUILDS", "GUILD_MEMBERS", "GUILD_MESSAGES", "GUILD_VOICE_STATES"] //Aggiungere GUILD_VOICE_STATES
+    intents: ["GUILDS", "GUILD_MEMBERS", "GUILD_MESSAGES", "GUILD_VOICE_STATES"]
 })
 require('dotenv').config();
 
